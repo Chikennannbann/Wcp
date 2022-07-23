@@ -14,4 +14,5 @@ public class Student extends Human {
 		profile += "学生で、テストの点数は" + this.score + "点です";
 		return profile;
 	}
+	// オーバーライドして、Studentクラス用に処理を変更
 }
