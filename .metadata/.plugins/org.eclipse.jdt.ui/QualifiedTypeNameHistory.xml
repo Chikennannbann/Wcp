@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="classMethod.human.Human02"/>
+    <fullyQualifiedTypeName name="classMethod.human.Human03"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="extend.human.Employee"/>
+    <fullyQualifiedTypeName name="extend.human.Human"/>
+    <fullyQualifiedTypeName name="extend.human.Student"/>
+    <fullyQualifiedTypeName name="extend.phone.MobilePhone"/>
+    <fullyQualifiedTypeName name="polymorphism.human.Student"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystems"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystem"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+</qualifiedTypeNameHistroy>
