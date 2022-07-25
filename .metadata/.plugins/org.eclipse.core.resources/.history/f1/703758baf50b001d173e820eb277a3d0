@@ -16,25 +16,6 @@ public class Chapter06 {
 		
 		bool = (val < 50) && (val % 10 == 0);
 		System.out.println(bool);
-		
-		
-		// Chapter06 2回目
-		int val1 = 2 + 5;
-		System.out.println(val1);
-		
-		val1++;
-		System.out.println(val1);
-		
-		val1 *= 5;
-		System.out.println(val1);
-		
-		boolean bool1 = (val1 == 50);
-		System.out.println(bool1);
-		
-		bool1 = (val1 < 50 && val % 10 == 0);
-		System.out.println(bool1);
-		
-		
 	}
 	
 }
