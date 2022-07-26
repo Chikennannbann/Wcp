@@ -7,5 +7,4 @@ public class ClassMethod01 {
 		Human01 sato = new Human01("佐藤", 25);
 		System.out.println("名前は" + sato.name + "で、年齢は" + sato.age + "です");
 	}
-
 }

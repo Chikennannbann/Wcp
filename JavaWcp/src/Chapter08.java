@@ -18,6 +18,26 @@ public class Chapter08 {
 			}
 			System.out.println(val);
 		}
+		
+		
+		// Chapter08 2回目
+		int number1 = 1;
+		while (number < 5) {
+			System.out.println(number1 * number1);
+			number1++;
+		}
+		
+		int[] array1 = { 1, 4, 14, 25 };
+		for (int i = 0; i < array1.length; i++) {
+			System.out.println(array1[i]);
+		}
+		
+		for (int val1 : array1) {
+			if (val1 % 2 == 0) {
+				continue;
+			}
+			System.out.println(val1);
+		}
 	}
 
 }

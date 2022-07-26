@@ -1,0 +1,16 @@
+
+public class While02 {
+	public static void main(String[] args) {
+		int number = 1;
+		while (number < 50) {
+			number *= 2;
+			System.out.println("While02 = " + number);
+		}
+		
+		do {
+			number += 2;
+			System.out.println("DoWhile02 = " + number);
+		} while (number < 50);
+	}
+
+}
