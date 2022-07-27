@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="4 個の要素を &apos;JavaWcp/src/exception&apos; に移動&#x0A;- 元のプロジェクト: &apos;JavaWcp&apos;&#x0A;- 宛先要素: &apos;JavaWcp/src/exception&apos;&#x0A;- オリジナル要素:&#x0A;     Exception04.java&#x0A;     Exception02.java&#x0A;     Exception03.java&#x0A;     Exception01.java&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/src&lt;exception" element1="/src&lt;{Exception04.java" element2="/src&lt;{Exception02.java" element3="/src&lt;{Exception03.java" element4="/src&lt;{Exception01.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1658929337339" units="4" version="1.0"/>
+</session>
