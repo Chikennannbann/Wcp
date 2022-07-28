@@ -16,4 +16,12 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="capsule.human.HumanCapsule"/>
+    <fullyQualifiedTypeName name="capsule.human.HumanNoCapsule02"/>
+    <fullyQualifiedTypeName name="extend.human.Employee02"/>
+    <fullyQualifiedTypeName name="extend.human.Student02"/>
+    <fullyQualifiedTypeName name="extend.animal.Dog"/>
+    <fullyQualifiedTypeName name="extend.phone.Camera02"/>
+    <fullyQualifiedTypeName name="extend.phone.MobilePhone02"/>
+    <fullyQualifiedTypeName name="extend.phone.Phone02"/>
 </qualifiedTypeNameHistroy>

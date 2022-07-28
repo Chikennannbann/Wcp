@@ -1,0 +1,12 @@
+package extend.animal;
+
+import extend.animal.Dog02;
+
+public class Abstract02 {
+	public static void main(String[] args) {
+		Dog dog = new Dog();
+		dog.eat();
+		dog.cry();
+	}
+
+}
