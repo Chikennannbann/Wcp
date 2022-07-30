@@ -8,11 +8,6 @@
     <fullyQualifiedTypeName name="extend.human.Student"/>
     <fullyQualifiedTypeName name="extend.phone.MobilePhone"/>
     <fullyQualifiedTypeName name="polymorphism.human.Student"/>
-    <fullyQualifiedTypeName name="java.nio.file.FileSystems"/>
-    <fullyQualifiedTypeName name="java.nio.file.FileSystem"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
-    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
@@ -24,4 +19,11 @@
     <fullyQualifiedTypeName name="extend.phone.Camera02"/>
     <fullyQualifiedTypeName name="extend.phone.MobilePhone02"/>
     <fullyQualifiedTypeName name="extend.phone.Phone02"/>
+    <fullyQualifiedTypeName name="polymorphism.human.Employee"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystem"/>
+    <fullyQualifiedTypeName name="java.nio.file.FileSystems"/>
+    <fullyQualifiedTypeName name="java.nio.file.Files"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>
