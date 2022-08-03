@@ -1,0 +1,13 @@
+package inner_class;
+
+public class Human {
+	Human human = new Human();
+	public class HumanLeg {
+		Human.HumanLeg leg = human.new HumanLeg();
+		public void kick() {
+			leg.kick();
+			System.out.println("蹴る");
+		}
+	}
+
+}

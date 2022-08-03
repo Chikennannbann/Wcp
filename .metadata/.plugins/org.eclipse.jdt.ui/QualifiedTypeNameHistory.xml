@@ -26,4 +26,5 @@
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="inner_class.Human.HumanLeg"/>
 </qualifiedTypeNameHistroy>
