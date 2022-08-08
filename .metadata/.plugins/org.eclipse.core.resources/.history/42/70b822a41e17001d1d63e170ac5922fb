@@ -1,0 +1,31 @@
+package Dessert;
+
+public enum Dessert01 {
+	APPLE, ICE_CREAM, CAKE;
+//
+//	public static void main(String[] args) {
+//	
+//	System.out.println(Dessert01.APPLE);
+//	System.out.println(Dessert01.ICE_CREAM);
+//	System.out.println(Dessert01.CAKE);
+//	
+//	}
+//	
+//	public static void main(String[] args) {
+//	Dessert01 apple = Dessert01.APPLE;
+//	Dessert01 iceCream = Dessert01.ICE_CREAM;
+//	Dessert01 cake = Dessert01.CAKE;
+//		
+//		System.out.println(apple);
+//		System.out.println(iceCream);
+//		System.out.println(cake);
+//	}
+	
+	public static void main(String[] args) {
+		Dessert01 x = Dessert01.APPLE;
+		Dessert01 y = Dessert01.APPLE;
+		System.out.println(x == y);
+		System.out.println(x.equals(y));
+	}
+}
+

@@ -1,0 +1,10 @@
+package Dessert;
+
+public enum Dessert01 {
+	APPLE, ICE_CREAM, CAKE,
+	
+	System.out.println(Dessert01.APPLE);
+	System.out.println(Dessert01.ICE_CREAM);
+	System.out.println(Dessert01.CAKE);
+
+}
