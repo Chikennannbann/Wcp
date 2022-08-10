@@ -1,0 +1,20 @@
+package API;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Map01 {
+	public static void main(String[] args) {
+		Map<Integer, String> map1 = new HashMap<Integer, String>();
+		
+		map1.put(0, "ぶどう");
+		map1.put(3, "もも");
+//		登録済みのキーで追加すると上書きされる
+		map1.put(0, "マスカット");
+		
+		System.out.println(map1);
+		System.out.println(map1.get(0));
+		System.out.println(map1.get(1));
+	}
+
+}
