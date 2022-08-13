@@ -1,0 +1,13 @@
+package Generics;
+
+public class Apples extends Fruit {
+	Apples(String name) {
+		super(name);
+	}
+	
+	@Override
+	protected String getName() {
+		return name;
+	}
+
+}

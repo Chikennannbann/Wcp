@@ -1,0 +1,27 @@
+package Generics;
+
+public class Basket02<E extends Fruit> {
+	private E elem;
+	
+	Basket02(E e) {
+		elem = e;
+	}
+	
+	void replace(E e) {
+		elem = e;
+	}
+	
+	E get() {
+		return elem;
+	}
+	
+	void printName() {
+		System.out.println("籠の中身は" + elem.getName() + "です");
+	}
+	
+	public static void main(String[] args) {
+		Basket02<Apple02> appleBasket = new Basket02<>(new Apple02("ふじ"));
+		System.out.println(appleBasket.get());
+	}
+
+}

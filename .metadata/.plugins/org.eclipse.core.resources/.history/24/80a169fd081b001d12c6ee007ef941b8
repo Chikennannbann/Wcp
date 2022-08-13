@@ -1,0 +1,30 @@
+package Generics;
+
+public class Basket<E> {
+	private E elem;
+	
+	Basket(E e) {
+		elem = e;
+	}
+	
+	void replace(E e) {
+		elem = e;
+	}
+	
+	E get() {
+		return elem;
+	}
+	
+	public static void main(String[] args) {
+		Basket<Peach> appleBasket = new Basket<>(new Peach("ふじ"));
+		System.out.println(appleBasket.get().getName());
+		
+		appleBasket.replace(new Peach("紅玉"));
+		System.out.println(appleBasket.get().getName());
+		
+//		コンパイルエラー
+//		appleBasket.replace(new Peach("黄金桃"));
+	}
+	
+
+}
