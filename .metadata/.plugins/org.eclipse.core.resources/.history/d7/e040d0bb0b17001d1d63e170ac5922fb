@@ -1,8 +1,0 @@
-package Dessert;
-
-public enum Dessert01 {
-	APPLE, ICE_CREAM, CAKE,
-	
-
-}
-

@@ -969,3 +969,155 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2022-08-16 13:05:48.952 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2022-08-16 13:08:28.167
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:43.233
+!MESSAGE リソース '/JavaWcp/src/dokojava/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:43.233
+!MESSAGE リソース '/JavaWcp/src/dokojava/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:43.295
+!MESSAGE リソース '/JavaWcp/src/dokojava/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:43.296
+!MESSAGE リソース '/JavaWcp/src/dokojava/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:43.317
+!MESSAGE リソース '/JavaWcp/src/dokojava/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:43.318
+!MESSAGE リソース '/JavaWcp/src/dokojava/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:48.083
+!MESSAGE リソース '/JavaWcp/src/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:48.083
+!MESSAGE リソース '/JavaWcp/src/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:48.084
+!MESSAGE リソース '/JavaWcp/src/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:48.085
+!MESSAGE リソース '/JavaWcp/src/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:48.103
+!MESSAGE リソース '/JavaWcp/src/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:08:48.103
+!MESSAGE リソース '/JavaWcp/src/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.737
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.738
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.738
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.739
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.739
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.739
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.740
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.740
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.760
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:09:47.760
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/chapter1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:20.308
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:20.310
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:20.359
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:20.359
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:20.391
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:20.391
+!MESSAGE リソース '/JavaWcp/dokojava/chapter1/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:58.270
+!MESSAGE リソース '/JavaWcp/dokojava/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:58.271
+!MESSAGE リソース '/JavaWcp/dokojava/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:58.272
+!MESSAGE リソース '/JavaWcp/dokojava/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:58.272
+!MESSAGE リソース '/JavaWcp/dokojava/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:58.305
+!MESSAGE リソース '/JavaWcp/dokojava/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:13:58.306
+!MESSAGE リソース '/JavaWcp/dokojava/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:14:59.825
+!MESSAGE リソース '/JavaWcp/dokojava01/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:14:59.825
+!MESSAGE リソース '/JavaWcp/dokojava01/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:14:59.827
+!MESSAGE リソース '/JavaWcp/dokojava01/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:14:59.827
+!MESSAGE リソース '/JavaWcp/dokojava01/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:14:59.857
+!MESSAGE リソース '/JavaWcp/dokojava01/practice2.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-16 13:14:59.858
+!MESSAGE リソース '/JavaWcp/dokojava01/practice2.java' が存在しません。
+!SESSION 2022-08-16 18:46:08.059 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2022-08-16 18:46:41.673
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-08-16 18:55:29.077
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
