@@ -1,0 +1,20 @@
+package chapter3;
+
+public class practice6 {
+	public static void main(String[] args) {
+		System.out.println("数あてゲーム");
+		int ans = new java.util.Random().nextInt(9);
+		System.out.println("0~9の数字を入力してください");
+		int num = new java.util.Scanner(System.in).nextInt();
+		for (num = 0; num < 5; num++) {
+			if (num == ans) {
+				System.out.println("あたり！");
+				break;
+			} else {
+				System.out.println("違います");
+			}
+		}
+		System.out.println("ゲームを終了します");
+	}
+
+}
