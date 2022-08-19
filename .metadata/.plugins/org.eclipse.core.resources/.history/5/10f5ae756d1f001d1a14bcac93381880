@@ -1,0 +1,15 @@
+package chapter5;
+
+public class practice1 {
+	public static void main(String[] args) {
+		introduceOneself("ミナト");
+		introduceOneself(20);
+		introduceOneself(155.5);
+		introduceOneself("子");
+	}
+	
+	public static void introduceOneself(String name) {
+		System.out.println("名前は" + name);
+	}
+
+}

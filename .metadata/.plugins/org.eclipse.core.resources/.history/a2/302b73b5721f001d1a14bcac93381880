@@ -1,0 +1,14 @@
+package chapter5;
+
+public class practice4 {
+	public static void main(String[] args) {
+		calcTriangleArea(10.0, 5.0);
+		System.out.println("三角形の面積は、" + area);
+	}
+	
+	public static double calcTriangleArea(double bottom, double height) {
+		double area = bottom * height;
+		return area;
+	}
+
+}
