@@ -28,4 +28,6 @@
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="inner_class.Human.HumanLeg"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="comment.Zenhan"/>
+    <fullyQualifiedTypeName name="comment.Kouhan"/>
 </qualifiedTypeNameHistroy>

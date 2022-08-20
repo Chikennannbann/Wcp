@@ -1256,3 +1256,337 @@ java.lang.InterruptedException
 
 !ENTRY mergedoc.encoding 2 0 2022-08-19 12:48:42.652
 !MESSAGE リソース '/JavaWcp/dokojava01/chapter5/practice3.java' が存在しません。
+!SESSION 2022-08-20 11:17:21.099 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+
+!ENTRY org.eclipse.ui.navigator 2 0 2022-08-20 11:29:38.332
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui.navigator 2 0 2022-08-20 11:29:38.334
+!MESSAGE Can't find Navigator Content Descriptor with id: org.eclipse.jst.servlet.ui.EnhancedJavaRendering
+
+!ENTRY org.eclipse.ui 2 2 2022-08-20 11:50:02.896
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:44.846
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:44.846
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:44.922
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:44.923
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:44.993
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:44.994
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:45.037
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:50:45.037
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.698
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.699
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.780
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.781
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.782
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.782
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.817
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:51:03.817
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter7/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:53:49.237
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 11:53:49.237
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:00:45.658
+!MESSAGE リソース '/JavaWcp/dokojava01/calcapp/logics/CalcLogic.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:00:45.658
+!MESSAGE リソース '/JavaWcp/dokojava01/calcapp/logics/CalcLogic.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:00:45.728
+!MESSAGE リソース '/JavaWcp/dokojava01/calcapp/logics/CalcLogic.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:00:45.729
+!MESSAGE リソース '/JavaWcp/dokojava01/calcapp/logics/CalcLogic.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:00:45.763
+!MESSAGE リソース '/JavaWcp/dokojava01/calcapp/logics/CalcLogic.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:00:45.764
+!MESSAGE リソース '/JavaWcp/dokojava01/calcapp/logics/CalcLogic.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.212
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.212
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.254
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.254
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.256
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.256
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.289
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:03:57.289
+!MESSAGE リソース '/JavaWcp/dokojava01/calcappMain/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:52.917
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:52.918
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:53.012
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:53.013
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:53.014
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:53.014
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:53.052
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:04:53.052
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6/Calc.java' が存在しません。
+
+!ENTRY org.eclipse.ltk.ui.refactoring 4 10000 2022-08-20 12:55:56.002
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Core Exception [code 4] リソースの移動中に問題が発生しました。
+	at org.eclipse.jdt.internal.core.MultiOperation.processElements(MultiOperation.java:180)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processElements(CopyResourceElementsOperation.java:436)
+	at org.eclipse.jdt.internal.core.MultiOperation.executeOperation(MultiOperation.java:95)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)
+	at org.eclipse.jdt.internal.core.JavaModel.rename(JavaModel.java:296)
+	at org.eclipse.jdt.internal.core.PackageFragment.rename(PackageFragment.java:533)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange.renamePackage(RenamePackageChange.java:210)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange.doRename(RenamePackageChange.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.AbstractJavaElementRenameChange.perform(AbstractJavaElementRenameChange.java:92)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:281)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.lambda$0(DynamicValidationStateChange.java:105)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5923)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:106)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:281)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: org.eclipse.core.internal.resources.ResourceException: リソースの移動中に問題が発生しました。
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1515)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1471)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processPackageFragmentResource(CopyResourceElementsOperation.java:487)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processElement(CopyResourceElementsOperation.java:421)
+	at org.eclipse.jdt.internal.core.MultiOperation.processElements(MultiOperation.java:168)
+	... 31 more
+Caused by: org.eclipse.core.internal.resources.ResourceException: リソースの移動中に問題が発生しました。
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1515)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1471)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processPackageFragmentResource(CopyResourceElementsOperation.java:487)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processElement(CopyResourceElementsOperation.java:421)
+	at org.eclipse.jdt.internal.core.MultiOperation.processElements(MultiOperation.java:168)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processElements(CopyResourceElementsOperation.java:436)
+	at org.eclipse.jdt.internal.core.MultiOperation.executeOperation(MultiOperation.java:95)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)
+	at org.eclipse.jdt.internal.core.JavaModel.rename(JavaModel.java:296)
+	at org.eclipse.jdt.internal.core.PackageFragment.rename(PackageFragment.java:533)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange.renamePackage(RenamePackageChange.java:210)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange.doRename(RenamePackageChange.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.AbstractJavaElementRenameChange.perform(AbstractJavaElementRenameChange.java:92)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:281)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.lambda$0(DynamicValidationStateChange.java:105)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5923)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:106)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:281)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Contains: リソース '/JavaWcp/dokojava01/chapter6' はファイル・システムと同期がとれていません。
+!SUBENTRY 1 org.eclipse.jdt.core 4 966 2022-08-20 12:55:56.004
+!MESSAGE リソースの移動中に問題が発生しました。
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: リソースの移動中に問題が発生しました。
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1515)
+	at org.eclipse.core.internal.resources.Resource.move(Resource.java:1471)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processPackageFragmentResource(CopyResourceElementsOperation.java:487)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processElement(CopyResourceElementsOperation.java:421)
+	at org.eclipse.jdt.internal.core.MultiOperation.processElements(MultiOperation.java:168)
+	at org.eclipse.jdt.internal.core.CopyResourceElementsOperation.processElements(CopyResourceElementsOperation.java:436)
+	at org.eclipse.jdt.internal.core.MultiOperation.executeOperation(MultiOperation.java:95)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:811)
+	at org.eclipse.jdt.internal.core.JavaModel.rename(JavaModel.java:296)
+	at org.eclipse.jdt.internal.core.PackageFragment.rename(PackageFragment.java:533)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange.renamePackage(RenamePackageChange.java:210)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.RenamePackageChange.doRename(RenamePackageChange.java:121)
+	at org.eclipse.jdt.internal.corext.refactoring.AbstractJavaElementRenameChange.perform(AbstractJavaElementRenameChange.java:92)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:281)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.access$0(DynamicValidationStateChange.java:1)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.lambda$0(DynamicValidationStateChange.java:105)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5923)
+	at org.eclipse.jdt.internal.corext.refactoring.changes.DynamicValidationStateChange.perform(DynamicValidationStateChange.java:106)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:281)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.lambda$0(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:295)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:94)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:219)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2313)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2338)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Contains: リソース '/JavaWcp/dokojava01/chapter6' はファイル・システムと同期がとれていません。
+!SUBENTRY 2 org.eclipse.core.resources 1 4 2022-08-20 12:55:56.005
+!MESSAGE リソースの移動中に問題が発生しました。
+!SUBENTRY 3 org.eclipse.core.resources 1 4 2022-08-20 12:55:56.005
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter6' はファイル・システムと同期がとれていません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.054
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.054
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.056
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.056
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.056
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.057
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.057
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.057
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.073
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-08-20 12:58:21.073
+!MESSAGE リソース '/JavaWcp/dokojava01/main.java' が存在しません。
+
+!ENTRY org.eclipse.ui.workbench.texteditor 4 0 2022-08-20 13:04:27.587
+!MESSAGE Cannot invoke "org.eclipse.ui.texteditor.ITextEditor.isDirty()" because "this.fTextEditor" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.ui.texteditor.ITextEditor.isDirty()" because "this.fTextEditor" is null
+	at org.eclipse.ui.texteditor.AbstractTextEditor$TextEditorSavable.isDirty(AbstractTextEditor.java:7161)
+	at org.eclipse.ui.internal.Workbench.getFilteredSaveables(Workbench.java:3447)
+	at org.eclipse.ui.internal.Workbench.saveAll(Workbench.java:3420)
+	at org.eclipse.ui.ide.IDE$1.run(IDE.java:1494)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.ide.IDE.saveAllEditors(IDE.java:1482)
+	at org.eclipse.debug.internal.ui.launchConfigurations.SaveScopeResourcesHandler.doSave(SaveScopeResourcesHandler.java:228)
+	at org.eclipse.debug.internal.ui.launchConfigurations.SaveScopeResourcesHandler.handleStatus(SaveScopeResourcesHandler.java:182)
+	at org.eclipse.debug.internal.ui.sourcelookup.Prompter.lambda$0(Prompter.java:73)
+	at org.eclipse.ui.internal.PendingSyncExec.run(PendingSyncExec.java:68)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:171)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4306)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3929)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1154)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1045)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
