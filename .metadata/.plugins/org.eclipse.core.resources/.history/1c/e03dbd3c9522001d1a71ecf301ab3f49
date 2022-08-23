@@ -1,0 +1,9 @@
+
+public class Prob36 {
+	public static void main(String[] args) {
+//		int num = (int)(Math.random()* 6) + 1;
+		int num = new java.util.Random().nextInt(6) + 1;
+		System.out.println(num);
+	}
+
+}

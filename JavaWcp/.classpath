@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="src" path="dokojava01"/>
+	<classpathentry kind="src" path="AHL"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
