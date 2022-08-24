@@ -1,0 +1,17 @@
+package problem4;
+
+public class practice {
+	public static void main(String[] args) {
+		int i = 1;
+		while () {
+			int num = new java.util.Random().nextInt(10) + 1;
+			if (num == 10) {
+				System.out.println("終了");
+				break;
+			}
+		}
+	}
+
+}
+
+// 3

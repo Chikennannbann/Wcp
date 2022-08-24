@@ -1,0 +1,13 @@
+package problem4;
+
+public class practice {
+	public static void main(String[] args) {
+		
+		for (int a = 3; a >= 0; a--) {
+			System.out.println("a=" + a);
+		}
+	}
+
+}
+
+// 3

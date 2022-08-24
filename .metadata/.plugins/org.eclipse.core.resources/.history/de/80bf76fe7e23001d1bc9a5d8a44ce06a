@@ -1,0 +1,14 @@
+package problem4;
+
+public class practice {
+	public static void main(String[] args) {
+		int a = 3;
+		while (a >= 0) {
+			System.out.println(a);
+			a--;
+		}
+	}
+
+}
+
+// 3
