@@ -31,4 +31,5 @@
     <fullyQualifiedTypeName name="comment.Zenhan"/>
     <fullyQualifiedTypeName name="comment.Kouhan"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>
