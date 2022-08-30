@@ -13,7 +13,7 @@ public class Main {
 		w.name = "アサカ";
 		w.hp = 30;
 		
-		Monster m = new Matango('A');
+		Matango m = new Matango('A');
 		
 		PoisonMatango pm = new PoisonMatango('C');
 		
@@ -36,14 +36,6 @@ public class Main {
 		
 		h.run();
 		
-//		多様性と配列を組み合わせる
 		
-		Monster[] monsters = new Monster[3];
-		monsters[0] = new Slime();
-		monsters[1] = new Goblin();
-		monsters[2] = new DeathBat();
-		for (Monster mon : monsters) {
-			mon.run();
-		}
 	}
 }

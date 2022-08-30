@@ -1,6 +1,6 @@
 
-public class Matango extends Monster {
-	int hp = 50;
+public class Matango {
+	int hp = 50;;
 	final int LEVEL = 10;
 	char suffix;
 	
