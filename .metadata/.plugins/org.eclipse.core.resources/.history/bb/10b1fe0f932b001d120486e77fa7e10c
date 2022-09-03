@@ -10,8 +10,8 @@ public class Main {
 		h.sword = s;
 		
 		Wizard w = new Wizard();
-		w.setName("アサカ");
-		w.setHp(30);
+		w.name = "アサカ";
+		w.hp = 30;
 		
 		Monster m = new Matango('A');
 		

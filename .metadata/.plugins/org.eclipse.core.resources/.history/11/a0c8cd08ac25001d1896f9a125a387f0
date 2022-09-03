@@ -1,7 +1,0 @@
-package list1;
-
-#include <stdio.h>
-
-void main() {
-	printf("HelloWorld.¥n");
-}

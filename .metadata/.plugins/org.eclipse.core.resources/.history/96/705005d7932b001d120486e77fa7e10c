@@ -7,9 +7,9 @@ public class Wizard {
 	
 	public void heal(Hero h) {
 		int basePoint = 10;
-		int recovPoint = (int)(basePoint * this.getWand().getPower());
-		h.setHp(h.getHp() + recovPoint);
-		System.out.println(h.getName() + "のHPを" + recovPoint + "回復した！");
+		int recoverPoint = (int)(basePoint * this.getWand().getPower());
+		h.setHp(h.getHp() + recoverPoint);
+		System.out.println(h.getName() + "のHPを" + recoverPoint + "回復した！");
 	}
 	
 	public String getName() {

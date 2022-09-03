@@ -20,7 +20,7 @@ public class SuperHero extends Hero {
 	}
 //	オーバーライド：親クラスのメンバを子クラス側で上書きすること
 	public void run() {
-		System.out.println(this.name + "は撤退した");
+		System.out.println(this.getName() + "は撤退した");
 	}
 
 }

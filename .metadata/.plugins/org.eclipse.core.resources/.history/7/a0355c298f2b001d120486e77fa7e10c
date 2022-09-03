@@ -10,8 +10,8 @@ public class Main {
 		h.sword = s;
 		
 		Wizard w = new Wizard();
-		w.setName("アサカ");
-		w.setHp(30);
+		w.name = "アサカ";
+		w.hp = 30;
 		
 		Monster m = new Matango('A');
 		
@@ -20,7 +20,7 @@ public class Main {
 		SuperHero sh = new SuperHero();
 		sh.run();
 		
-		System.out.println("勇者" + h.getName() + "を生み出しました！");
+		System.out.println("勇者" + h.name + "を生み出しました！");
 		System.out.println("現在の武器は" + h.sword.name);
 		
 //		h.sit(5);
