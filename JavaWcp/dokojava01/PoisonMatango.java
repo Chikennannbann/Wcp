@@ -10,7 +10,7 @@ public class PoisonMatango extends Matango{
 		if (this.poisonCount > 0) {
 			System.out.println("さらに毒の胞子をばら撒いた！");
 			int dmg = h.getHp() / 5;
-			h.setHp(-dmg);
+			h.setHp(h.getHp() - dmg);
 			System.out.println(dmg + "ポイントのダメージ！");
 			this.poisonCount--;
 		}

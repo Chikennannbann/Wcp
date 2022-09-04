@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="型 &apos;chapter14.code1&apos; を &apos;Empty&apos; に名前変更します&#x0A;- 元のプロジェクト: &apos;JavaWcp&apos;&#x0A;- オリジナル要素: &apos;chapter14.code1&apos;&#x0A;- 名前変更済み要素: &apos;chapter14.Empty&apos;&#x0A;- リファクタリングされた要素の参照を更新&#x0A;- コメントおよびストリング内のテキスト出現箇所の更新" description="型名 &apos;code1&apos; を変更します" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/dokojava01&lt;chapter14{code1.java[code1" matchStrategy="1" name="Empty" qualified="false" references="true" similarDeclarations="false" stamp="1662297372588" textual="false" version="1.0"/>
+</session>

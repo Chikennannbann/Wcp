@@ -29,7 +29,7 @@ public class Main {
 //		h.run();
 		h.attack(m);
 		h.slip();
-		w.heal(h);
+//		w.heal(h);
 		m.run();
 		
 		pm.attack(h);
@@ -44,6 +44,18 @@ public class Main {
 		monsters[2] = new DeathBat();
 		for (Monster mon : monsters) {
 			mon.run();
+		}
+		
+		System.out.println(h.toString());
+		
+		Hero h2 = new Hero("モモ");
+		h2.setHp(100);
+		Hero h3 = new Hero("モモ");
+		h3.setHp(100);
+		if (h2.equals(h2) == true) {
+			System.out.println("同じ内容です");
+		} else {
+			System.out.println("違う内容です");
 		}
 	}
 }
