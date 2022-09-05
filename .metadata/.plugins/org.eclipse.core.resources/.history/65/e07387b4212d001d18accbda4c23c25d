@@ -1,0 +1,11 @@
+package chapter14;
+
+public class Account {
+	String accountNumber;
+	int balance;
+	
+	public String toString() {
+		return "¥¥" + this.accountNumber + "(口座番号：" + this.balance + ")";
+	}
+
+}

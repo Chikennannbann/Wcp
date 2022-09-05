@@ -58,17 +58,12 @@ public class Main {
 			System.out.println("違う内容です");
 		}
 		
-//		＊newせずとも静的フィールド(static付)は利用可能
 		Hero.money = 100;
 		System.out.println(Hero.money);
 		System.out.println(h2.money);
 		h2.money = 300;
 		System.out.println(h3.money);
 		
-		Hero.setRandomMoney();
-		System.out.println(Hero.money);
-		Hero h4 = new Hero();
-		System.out.println(h4.money);
 		
 	}
 }

@@ -65,10 +65,6 @@ public class Main {
 		h2.money = 300;
 		System.out.println(h3.money);
 		
-		Hero.setRandomMoney();
-		System.out.println(Hero.money);
-		Hero h4 = new Hero();
-		System.out.println(h4.money);
 		
 	}
 }
