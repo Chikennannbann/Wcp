@@ -11098,3 +11098,43 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY org.eclipse.ui 2 2 2022-09-05 22:55:55.359
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2022-09-06 14:49:45.705 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2022-09-06 16:02:32.244
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.721
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.721
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.727
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.727
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.728
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.728
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.732
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.732
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.764
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-06 16:02:43.764
+!MESSAGE リソース '/JavaWcp/dokojava01/chapter15/code1.java' が存在しません。
