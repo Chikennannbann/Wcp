@@ -1,0 +1,14 @@
+package chapter15;
+
+public class Code10 {
+	public static void main(String[] args) {
+		long start = System.currentTimeMillis();
+		try {
+		Thread.sleep(10 * 1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		System.out.println(start);
+	}
+
+}

@@ -1,0 +1,6 @@
+package chapter15;
+
+public class Code9 {
+	public static void main(String[] args) {
+		int year = 2021;
+		String str = String.format("今年は%d年です", year)}

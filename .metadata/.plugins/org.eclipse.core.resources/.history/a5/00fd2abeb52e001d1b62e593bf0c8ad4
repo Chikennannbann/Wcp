@@ -1,0 +1,9 @@
+package chapter15;
+
+public class Code10 {
+	public static void main(String[] args) {
+		long start = System.currentTimeMillis();
+		System.out.println(start);
+	}
+
+}
