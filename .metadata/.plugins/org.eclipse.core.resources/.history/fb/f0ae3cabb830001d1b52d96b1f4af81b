@@ -1,0 +1,18 @@
+package chapter16;
+
+import java.util.ArrayList;
+
+public class Code2 {
+	public static void main(String[] args) {
+		ArrayList<String> names = new ArrayList<String>();
+		names.add("ミナト");
+		names.add("アサカ");
+		names.add("スガワラ");
+		Interator<String> it = names.interator();
+		while (it.hasNext()) {
+			String e = it.next();
+			System.out.println(e);
+		}
+	}
+
+}

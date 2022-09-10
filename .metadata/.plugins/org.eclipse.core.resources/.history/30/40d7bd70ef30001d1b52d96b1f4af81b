@@ -1,0 +1,9 @@
+package chapter16;
+
+public class Practice2 {
+	public static void main(String[] args) {
+		Hero saito = new Hero("斉藤");
+		Hero suzuki = new Hero("鈴木");
+	}
+
+}
