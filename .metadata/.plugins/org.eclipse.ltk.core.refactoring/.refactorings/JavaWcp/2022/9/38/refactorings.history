@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Code2.java&apos; to &apos;JavaWcp/dokojava01/chapter17&apos;&#x0A;- 元のプロジェクト: &apos;JavaWcp&apos;&#x0A;- 宛先要素: &apos;JavaWcp/dokojava01/chapter17&apos;&#x0A;- オリジナル要素: &apos;chapter2.Code2.java&apos;&#x0A;- リファクタリングされた要素の参照を更新" description="コンパイル単位を移動" destination="/dokojava01&lt;chapter17" element1="/dokojava01&lt;chapter2{Code2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1663076825571" units="1" version="1.0"/>
+</session>

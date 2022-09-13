@@ -1,0 +1,17 @@
+package chapter17;
+
+import java.io.*;
+
+public class Code5 {
+	public static void main(String[] args) {
+		FileWriter fw = new FileWriter("data.txt");
+		try {
+			fw.write("hello");
+		} catch (Exception e) {
+			System.out.println("なんらかの例外が発生");
+		} finally {
+			fw.close();
+		}
+	}
+
+}
