@@ -1,19 +1,17 @@
 package chapter1;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Arrays;
 
 public class Code4 {
 	public static void main(String[] args) {
-		List<Hero> list = new ArrayList<>();
+		int[] a = {1, 2, 3, 4, 5};
+		int[] b = {1, 2, 3, 4, 5};
 		
-		Hero h1 = new Hero("ミナト", 100, 90);
-		list.add(h1);
-		System.out.println("要素数" + list.size());
-		
-		h1 = new Hero("ミナト", 100, 90);
-		list.remove(h1);
-		System.out.println("要素数" + list.size());
+		System.out.println("誤った判定:" + a.equals(b));
+		System.out.println("正しい判定:" + Arrays.equals(a, b));
 	}
 
 }
+
+// 配列同士を比較しようろすると等値判定が行われてしまう
+// ２つの配列を等価判定したい場合はjava.util.Arraysクラスの静的メソッドequals()を使用

@@ -35,4 +35,5 @@
     <fullyQualifiedTypeName name="org.w3c.dom.NamedNodeMap"/>
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="java.time.Period"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
 </qualifiedTypeNameHistroy>

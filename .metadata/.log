@@ -11360,3 +11360,165 @@ java.lang.InterruptedException
 	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
 	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
 	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+!SESSION 2022-09-16 16:42:28.367 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+
+!ENTRY org.eclipse.ui 2 2 2022-09-16 17:10:49.970
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.041
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.042
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.095
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.095
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.096
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.096
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.100
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.100
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.153
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:02.154
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code4.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.032
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.033
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.034
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.034
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.035
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.035
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.036
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.036
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.082
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 17:11:18.082
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Code5.java' が存在しません。
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-09-16 17:41:15.291
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2022-09-16 17:41:15.299
+!MESSAGE 内部エラー
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): compareTo() [in Code8 [in [Working copy] Code8.java [in chapter1 [in dokojavaPractice [in JavaWcp]]]]] は存在しません
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:617)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:328)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:314)
+	at org.eclipse.jdt.internal.core.SourceRefElement.getSourceRange(SourceRefElement.java:233)
+	at org.eclipse.jdt.internal.core.Member.getJavadocRange(Member.java:301)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContentFromSource(JavadocContentAccess2.java:639)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:515)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:748)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:666)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:658)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:68)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-09-16 17:41:15.299
+!MESSAGE compareTo() [in Code8 [in [Working copy] Code8.java [in chapter1 [in dokojavaPractice [in JavaWcp]]]]] は存在しません
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-09-16 18:16:38.243
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-09-16 18:29:18.961
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.722
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.722
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.774
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.775
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.775
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.775
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.776
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.776
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.790
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-16 18:42:54.790
+!MESSAGE リソース '/JavaWcp/dokojavaPractice/chapter1/Practice1.java' が存在しません。
