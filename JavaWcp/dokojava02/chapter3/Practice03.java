@@ -1,0 +1,23 @@
+package chapter3;
+
+public class Practice03 {
+	public static void main(String[] args) {
+		int isHungry = 1;
+		String food = "beef";
+		
+		System.out.println("こんにちは");
+		
+		if (isHungry == 0) {
+			System.out.println("お腹がいっぱいです");
+		} else {
+			System.out.println("腹ペコです");
+		}
+		if (isHungry == 1) {
+			System.out.println(food + "をいただきます");
+		}
+		System.out.println("ご馳走様でした");
+	}
+
+}
+
+// System.out.println(isHungry == 0 ? "お腹がいっぱいです" : "腹ペコです");

@@ -6,5 +6,6 @@
 	<classpathentry kind="src" path="dokojava01"/>
 	<classpathentry kind="src" path="AHL"/>
 	<classpathentry kind="src" path="dokojavaPractice"/>
+	<classpathentry kind="src" path="dokojava02"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
