@@ -12438,3 +12438,28 @@ java.lang.Exception: 異なるケースを持つリソース '/JavaWcp/bin/chapt
 
 !ENTRY mergedoc.encoding 2 0 2022-09-19 12:23:34.362
 !MESSAGE リソース '/JavaWcp/dokojava02/chapter4/Code12.java' が存在しません。
+!SESSION 2022-09-21 11:15:03.154 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=17.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/misaki/.eclipse_keyring
+
+!ENTRY mergedoc.encoding 2 0 2022-09-21 11:49:26.087
+!MESSAGE リソース '/JavaWcp/dokojava01/Code013.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-21 11:49:26.088
+!MESSAGE リソース '/JavaWcp/dokojava01/Code013.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-21 11:49:26.138
+!MESSAGE リソース '/JavaWcp/dokojava01/Code013.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-21 11:49:26.139
+!MESSAGE リソース '/JavaWcp/dokojava01/Code013.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-21 11:49:26.156
+!MESSAGE リソース '/JavaWcp/dokojava01/Code013.java' が存在しません。
+
+!ENTRY mergedoc.encoding 2 0 2022-09-21 11:49:26.157
+!MESSAGE リソース '/JavaWcp/dokojava01/Code013.java' が存在しません。
