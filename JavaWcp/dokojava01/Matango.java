@@ -12,7 +12,7 @@ public class Matango extends Monster {
 		this.suffix = suffix;
 	}
 	
-	public void attack(Hero h) {
+	public void attack(Hero02 h) {
 		System.out.println("キノコ" + this.suffix + "の攻撃");
 		System.out.println("10のダメージ");
 		h.setHp(h.getHp() - 10);

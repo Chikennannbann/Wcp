@@ -5,7 +5,7 @@ public class PoisonMatango extends Matango{
 	public PoisonMatango(char suffix) {
 		super(suffix);
 	}
-	public void attack(Hero h) {
+	public void attack(Hero02 h) {
 		super.attack(h);
 		if (this.poisonCount > 0) {
 			System.out.println("さらに毒の胞子をばら撒いた！");

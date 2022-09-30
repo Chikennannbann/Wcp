@@ -76,8 +76,8 @@ public class Hero {
 		if (this == o) {
 			return true;
 		}
-		if (o instanceof Hero) {
-			Hero h = (Hero)o;
+		if (o instanceof Hero02) {
+			Hero02 h = (Hero02)o;
 			if (this.name.equals(h.name)) {
 				return true;
 			}
@@ -87,7 +87,7 @@ public class Hero {
 	
 //	静的メソッド
 	public static void setRandomMoney() {
-		Hero.money = (int)(Math.random() * 1000);
+		Hero02.money = (int)(Math.random() * 1000);
 	}
 
 }

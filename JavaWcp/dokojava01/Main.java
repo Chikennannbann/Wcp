@@ -6,7 +6,7 @@ public class Main {
 		s.damage = 10;
 //		Hero h = new Hero();
 //		h.hp = 100;
-		Hero h = new Hero("ミナト");
+		Hero02 h = new Hero02("ミナト");
 		h.sword = s;
 		
 		Wizard w = new Wizard();
@@ -48,9 +48,9 @@ public class Main {
 		
 		System.out.println(h.toString());
 		
-		Hero h2 = new Hero("モモ");
+		Hero02 h2 = new Hero02("モモ");
 		h2.setHp(100);
-		Hero h3 = new Hero("モモ");
+		Hero02 h3 = new Hero02("モモ");
 		h3.setHp(100);
 		if (h2.equals(h2) == true) {
 			System.out.println("同じ内容です");
@@ -59,15 +59,15 @@ public class Main {
 		}
 		
 //		＊newせずとも静的フィールド(static付)は利用可能
-		Hero.money = 100;
-		System.out.println(Hero.money);
+		Hero02.money = 100;
+		System.out.println(Hero02.money);
 		System.out.println(h2.money);
 		h2.money = 300;
 		System.out.println(h3.money);
 		
-		Hero.setRandomMoney();
-		System.out.println(Hero.money);
-		Hero h4 = new Hero();
+		Hero02.setRandomMoney();
+		System.out.println(Hero02.money);
+		Hero02 h4 = new Hero02();
 		System.out.println(h4.money);
 		
 	}

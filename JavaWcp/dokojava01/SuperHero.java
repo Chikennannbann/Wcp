@@ -1,5 +1,5 @@
 
-public class SuperHero extends Hero {
+public class SuperHero extends Hero02 {
 	boolean flying;
 	
 	public void attack(Matango m) {
